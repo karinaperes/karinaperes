@@ -1,10 +1,9 @@
 - 🪂 Oi, meu nome é Karina
-- 🎓 Sou formada em Publicidade, mas trabalhei muito pouco nessa área
+- 🎓 Graduada em Publicidade e Propaganda
 - 👩‍💻 A maior parte da minha vida profissional, foi dedicada às áreas de financeiro, administrativo, controladoria e logística
-- 🤖 Sempre me interessei muito por sistemas, programação, tratamento de dados 
+- 🤖 Mas... o que sempre me interessou foi programação, sistemas, tratamento de dados...
 - 🧮 Adoro Excel!
-- 🌱 Atualmente estou aprendendo Python, SQL, JavaScript, HTML e CSS
+- 🌱 Estou aprendendo Python, SQL, Node.js, JavaScript, HTML, CSS e descobrindo que gosto muito mesmo de tudo isso
 - 🚀 Estou em transição de carreira para a área Dev, abraçando o desafio de trabalhar como backend
-- 🤓 Ainda não sei se consigo colaborar com alguma coisa mas, se conseguir, eu topo!
 - 💛 Aprender com outras pessoas é sempre mais legal, então estou sempre buscando parcerias para estudo
 - 📫 Discord karinapg
