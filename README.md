@@ -3,7 +3,6 @@
 - 👩‍💻 A maior parte da minha vida profissional, foi dedicada às áreas de financeiro, administrativo, controladoria e logística
 - 🤖 Mas... o que sempre me interessou foi programação, sistemas, tratamento de dados...
 - 🧮 Adoro Excel!
-- 🌱 Estou aprendendo Python, SQL, Node.js, JavaScript, HTML, CSS e descobrindo que gosto muito mesmo de tudo isso
-- 🚀 Estou em transição de carreira para a área Dev, abraçando o desafio de trabalhar como backend
+- 🌱 Estou estudando Python, SQL, Node.js, Express, JavaScript, HTML, CSS e descobrindo que gosto muito mesmo de tudo isso  
 - 💛 Aprender com outras pessoas é sempre mais legal, então estou sempre buscando parcerias para estudo
 - 📫 Discord karinapg
