@@ -1,9 +1,19 @@
-- 🪂 Oi, meu nome é Karina
-- 🎓 Graduada em Publicidade e Propaganda
-- 👩‍💻 A maior parte da minha vida profissional, foi dedicada às áreas de financeiro, administrativo, controladoria e logística
-- 🤖 Mas... o que sempre me interessou foi programação, sistemas, tratamento de dados...
-- 🧮 Adoro Excel!
-- 🌱 Estou estudando Python, SQL, Node.js, Express, JavaScript, HTML, CSS e blockchain  
+## 👋 Sobre Mim
+Sou formada em Publicidade e Propaganda com experiência nas áreas administrativa, financeira e logística, em transição para área de programação.
+Buscando oportunidades para aplicar conhecimentos técnicos em JavaScript, Python, SQL, Blockchain, AWS e em integração de sistemas. Estou aberta a colaborar em projetos de desenvolvimento e automação de processos, integração de APIs e demais áreas que envolvam programação e inovação tecnológica.
+
+### 🛠️ Habilidades Técnicas
+- Linguagens: JavaScript, Python, SQL
+- Banco de Dados: PostgreSQL
+- Cloud e DevOps: AWS, Docker
+- Blockchain: Blockchain, Smart Contracts
+- Ferramentas e Versionamento: Git/GitHub, VSCode
+- Desenvolvimento Web (opcional): Node.js, React, HTML5, CSS
+  
+### 🌱 Atualmente Aprendendo
+- Escola da Nuvem - AWS re/Start
+- Cosco - Introdução a Cibersegurança
+
 - 💛 Aprender com outras pessoas é sempre mais legal, então estou sempre buscando parcerias para estudo
 - 📫 Discord karinapg
 
