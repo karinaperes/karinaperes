@@ -16,7 +16,20 @@ Sou organizada, gosto de escrever código limpo, documentado e sempre penso na e
 - Cloud e DevOps: AWS, Docker
 - Blockchain: Blockchain, Smart Contracts
 - Ferramentas e Versionamento: Git/GitHub, VSCode
-- Desenvolvimento Web (opcional): Node.js, React, HTML5, CSS, Next.js, Express  
+- Desenvolvimento Web (opcional): Node.js, React, HTML5, CSS, Next.js, Express
+
+##  🎯 [TryCatch For Match](https://github.com/TryCatch-ForMatch/trycatch)
+
+Plataforma open source que conecta devs a projetos colaborativos reais.
+
+- Autenticação com NextAuth + controle por cargos
+- Painel administrativo com cadastro de stacks, skills, convites e usuários
+- CRUD completo para usuários, projetos, feedbacks e relacionamentos
+- Banco de dados modelado com Prisma e PostgreSQL
+- Rodando via Docker ou localmente
+- Foco em acessibilidade e documentação para devs iniciantes
+
+
 
 💛 Gosto de aprender em comunidade, participar de projetos e contribuir com pessoas que também acreditam em tecnologia como ferramenta de mudança.
   
